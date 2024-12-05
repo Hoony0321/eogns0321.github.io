@@ -2,19 +2,14 @@ module.exports = {
   title: "DAEHUN GO",
   description: "Hello, I'm Daehun Go, a passionate developer.",
   author: "DAEHUN GO",
-  siteUrl: "https://devhudi.github.io/gatsby-starter-hoodie/", // TODO : CHANGE
+  siteUrl: "https://hoony0321.github.io",
   links: {
     github: "https://github.com/hoony0321",
     linkedIn: "https://www.linkedin.com/in/daehungo/",
-    facebook: "https://www.facebook.com", // TODO : CHANGE
-    twitter: "https://twitter.com", // TODO : CHANGE
-    x: "https://x.com", // TODO : CHANGE
-    instagram: "https://www.instagram.com", // TODO : CHANGE
-    medium: "https://medium.com", // TODO : CHANGE
-    blogger: "https://blogger.com", // TODO : CHANGE
-    email: "eogns0321@gmail.com",
-    resume: "https://hudi.blog", // TODO : CHANGE
-    link: "https://hudi.blog", // TODO : CHANGE
+    email: "mailto:eogns0321@gmail.com",
+    resume:
+      "https://drive.google.com/file/d/1wROUmM-a9ePnRLT2mx9ZuUGllTChULD9/view?usp=sharing",
+    link: "https://www.notion.so/DAEHUN-GO-121128d13eb480cfaeecd9518df68b53?pvs=4",
   },
   useAbout: true,
   // See https://giscus.app/
