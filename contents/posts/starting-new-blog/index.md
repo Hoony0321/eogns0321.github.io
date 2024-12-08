@@ -1,5 +1,5 @@
 ---
-title: "Starting New Blog! 🔥🔥🔥"
+title: "🔥 Starting New Blog!"
 description: "Why did I start this blog?"
 date: 2024-12-04
 update: 2024-12-04
