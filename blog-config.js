@@ -14,8 +14,8 @@ module.exports = {
   useAbout: true,
   // See https://giscus.app/
   giscus: {
-    repo: "hoony0321/hoony0321.github.io",
-    repoId: "897069565",
+    repo: "Hoony0321/Hoony0321.github.io",
+    repoId: "R_kgDONXgx_Q",
     category: "Comments",
     categoryId: "DIC_kwDONXgx_c4Ck17u",
     mapping: "pathname",
